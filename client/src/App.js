@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const api_base = 'http://localhost:3001';
+const api_base = 'http://20.14.157.199';
 
 function App() {
 	const [todos, setTodos] = useState([]);
